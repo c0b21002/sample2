@@ -1,3 +1,20 @@
+<style>
+body {
+background: lightcyan;
+width: 800px;
+margin: auto;
+}
+h1 {
+color: maroon;
+text-align: center;
+}
+p {
+color: gray;
+border: 1px solid gray;
+40
+padding: 10px;
+}
+</style>
 ## Images
 ![Minion](https://octodex.github.com/images/minion.png)
 ![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
