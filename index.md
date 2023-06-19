@@ -1,3 +1,7 @@
+## Images
+![Minion](https://octodex.github.com/images/minion.png)
+![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
+
 # h1 Heading
 ## h2 Heading
 ### h3 Heading
