@@ -1,9 +1,3 @@
-34
-l 表
-l リンク
-l 脚注
-先程、index.md に⼊れた内容を下記の内容に切り替え、再度実⾏する。
----
 # h1 Heading
 ## h2 Heading
 ### h3 Heading
